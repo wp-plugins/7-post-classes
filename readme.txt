@@ -1,5 +1,5 @@
-=== 7 Listings Post Classes ===
-Contributors: 7-listings, rilwis
+=== 7 Post Classes ===
+Contributors: 7 Listings, rilwis
 Donate link: http://www.7listings.net
 Tags: seo, post, class, taxonomy, woocommerce
 Requires at least: 4.2
